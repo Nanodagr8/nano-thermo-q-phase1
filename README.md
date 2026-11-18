@@ -1,12 +1,12 @@
-# NANO THERMO-Q — Phase 1
+# NANO THERMO-Q — Complete Phase 1 (V0–V45) · Signature Scientific Atlas
 
 **Independent micromagnetic numerical validation and a proposed diamond spin–phonon–magnon quantum architecture**
 
-> **Publication correction in progress (18 Nov 2026):** The original Zenodo v1.0 PDF omitted the named individual author on its cover and contained a provisional attribution sentence. **Kevin Inthavong — Independent Researcher** is the author. A verified author-corrected v1.1 report and a reduced, audited supplementary archive are prepared for replacement. Numerical results and scientific limitations are unchanged. The existing version-1.0 Zenodo files remain accessible until the corrected version is published. See [author-correction notice](AUTHORSHIP_CORRECTION.md).
+> **Corrected scope · 18 November 2026:** This repository now documents the entire **V0–V45** research history rather than only the V42–V45 classical verification results. The original Zenodo v1.0 record remains an immutable narrower release. The expanded 59-page Signature Scientific Atlas is a **research-review edition**; full-history authorship/evidence/IP/peer-review gates remain open. A linked new Zenodo version is being prepared—not a distinct replacement DOI. See [authorship correction](AUTHORSHIP_CORRECTION.md) for original attribution details.
 
 **Published research record:** [Zenodo DOI: 10.5281/zenodo.24338147](https://doi.org/10.5281/zenodo.24338147)  
 **Author and rights holder:** Kevin Inthavong  
-**Published:** November 18, 2026 · **Version:** 1.0 · **Type:** Technical feasibility report / research preprint  
+**Original Zenodo release:** November 18, 2026 · **Version:** 1.0 (narrower V42–V45 report) · **Expanded edition:** V0–V45 Signature Scientific Atlas review manuscript  
 **Research package:** [Zenodo record with report, interactive atlas and CAD/media archives](https://zenodo.org/records/24338147)
 
 > **Scientific status:** This is a proposed architecture supported by *classical micromagnetic numerical validation*. It is **not** a fabricated quantum chip, a demonstrated quantum advantage, a thermally powered quantum processor, or a validated new quantum phenomenon.
@@ -14,6 +14,12 @@
 ## Research goal
 
 NANO THERMO-Q is investigating whether engineered diamond defect spins, phononic structures, a magnonic resonator, optical and microwave controls, and classical NPU/CPU orchestration could form a future **thermally characterized hybrid quantum-processing platform**. Possible applications and advantages are hypotheses for subsequent controlled experiments, not Phase 1 results.
+
+## Full historical coverage — V0 through V45
+
+The expanded research archive covers the early thermally assisted quantum computing question; IBM/Qiskit Bell-state, GHZ, QAOA and other *separately reported* quantum education/hardware investigations; the V0.1 CVD-diamond NV spin and high-temperature thermodynamic screening; the V11 continuous-waveguide thermal-auto-oscillator concept; subsequent models, negative results and corrections; and the V41–V45 finite-difference numerical checks. **These are different evidence types:** the early IBM/qBraid experiments do not constitute hardware testing of the proposed THERMO-Q device. Not every V1–V12 test can be attributed to a specific version from individually recovered primary logs.
+
+The **Signature Scientific Atlas** comprises a 59-page illustrated PDF, editable manuscript, V0–V45 evidence register, numerically grounded figures, layered educational 3D/4D viewer, conceptual DXF/GLB hardware layouts, and 24-frame animations. These drawings are **not fabrication masks**, and 4D refers to mathematical projection/parameter evolution rather than four physical spatial dimensions.
 
 ## Phase 1 — independently reproduced numerical results
 
@@ -38,7 +44,7 @@ The project's **NANO-VAIL** label denotes its *Verified Analytical and Independe
 
 ## Read the full technical publication
 
-**[Full report, PDF, interactive 3D/4D atlas, conceptual CAD drawings and publication package](https://zenodo.org/records/24338147)**
+**[Prior narrower Zenodo v1.0 report](https://zenodo.org/records/24338147)**. The corrected full V0–V45 Signature edition will be linked here when its update is published. Do not mistake the currently published PDF for the 59-page revised edition.
 
 The 3D/4D illustrations describe proposed anatomy, mathematical 4D projections, and time/temperature-parameter displays; they are **not measured physical 4-spatial-dimensional structures**. Some public visualizations contain **downsampled** V45-derived information. Full-resolution internal source states and the private research event ledger are not part of this GitHub repository.
 
