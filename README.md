@@ -2,6 +2,8 @@
 
 **Independent micromagnetic numerical validation and a proposed diamond spin–phonon–magnon quantum architecture**
 
+> **Publication correction in progress (18 Nov 2026):** The original Zenodo v1.0 PDF omitted the named individual author on its cover and contained a provisional attribution sentence. **Kevin Inthavong — Independent Researcher** is the author. A verified author-corrected v1.1 report and a reduced, audited supplementary archive are prepared for replacement. Numerical results and scientific limitations are unchanged. The existing version-1.0 Zenodo files remain accessible until the corrected version is published. See [author-correction notice](AUTHORSHIP_CORRECTION.md).
+
 **Published research record:** [Zenodo DOI: 10.5281/zenodo.24338147](https://doi.org/10.5281/zenodo.24338147)  
 **Author and rights holder:** Kevin Inthavong  
 **Published:** November 18, 2026 · **Version:** 1.0 · **Type:** Technical feasibility report / research preprint  
