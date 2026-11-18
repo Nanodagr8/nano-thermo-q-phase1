@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Please cite the archived Zenodo Phase 1 report when using or discussing these research findings."
+title: "NANO THERMO-Q Phase 1: Independent Micromagnetic Validation and a Proposed Diamond Spin-Phonon-Magnon Quantum Architecture"
+authors:
+  - family-names: Inthavong
+    given-names: Kevin
+doi: 10.5281/zenodo.24338147
+date-released: 2026-11-18
+url: https://zenodo.org/records/24338147
+license: CC-BY-4.0
+type: report
+abstract: >-
+  A technical feasibility report of independent classical micromagnetic numerical
+  verification for an assumed magnetic-film model and a proposed hybrid diamond
+  spin-phonon-magnon quantum architecture. No physical quantum-chip experiment,
+  quantum advantage, or new quantum phenomenon is demonstrated.
