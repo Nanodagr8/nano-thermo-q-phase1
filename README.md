@@ -44,7 +44,7 @@ The project's **NANO-VAIL** label denotes its *Verified Analytical and Independe
 
 ## Read the full technical publication
 
-**[Prior narrower Zenodo v1.0 report](https://zenodo.org/records/24338147)**. The corrected full V0–V45 Signature edition will be linked here when its update is published. Do not mistake the currently published PDF for the 59-page revised edition.
+**[Prior narrower Zenodo v1.0 report](https://zenodo.org/records/24338147)**. **[Read the complete 59-page V0–V45 Signature Scientific Atlas PDF](publications/NANO_THERMO_Q_V0_V45_SIGNATURE_RESEARCH_ATLAS.pdf)** (research-review edition). The existing Zenodo v1.0 PDF remains the earlier, narrower release; a same-record Zenodo version update is pending. Do not confuse the two editions.
 
 The 3D/4D illustrations describe proposed anatomy, mathematical 4D projections, and time/temperature-parameter displays; they are **not measured physical 4-spatial-dimensional structures**. Some public visualizations contain **downsampled** V45-derived information. Full-resolution internal source states and the private research event ledger are not part of this GitHub repository.
 
