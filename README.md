@@ -1,5 +1,8 @@
 # NANO THERMO-Q — Complete Phase 1 (V0–V45) · Signature Scientific Atlas
 
+> **NEW: Complete V0–V45 illustrated research edition (18 November 2026).** [Download the Signature Scientific Atlas research prerelease](https://github.com/Nanodagr8/nano-thermo-q-phase1/releases/tag/v1.1-signature-review). It contains the 59-page PDF and 211-file review archive (CAD, numerical charts, historical evidence, rotating 3D/4D views, and editable sources). This release is **a scientific review draft**, not experimental quantum hardware verification. The original narrower [Zenodo DOI 10.5281/zenodo.24338147](https://doi.org/10.5281/zenodo.24338147) remains valid and has **not** yet been replaced by a published V0–V45 Zenodo version.
+
+
 **Independent micromagnetic numerical validation and a proposed diamond spin–phonon–magnon quantum architecture**
 
 > **Corrected scope · 18 November 2026:** This repository now documents the entire **V0–V45** research history rather than only the V42–V45 classical verification results. The original Zenodo v1.0 record remains an immutable narrower release. The expanded 59-page Signature Scientific Atlas is a **research-review edition**; full-history authorship/evidence/IP/peer-review gates remain open. A linked new Zenodo version is being prepared—not a distinct replacement DOI. See [authorship correction](AUTHORSHIP_CORRECTION.md) for original attribution details.
